@@ -100,10 +100,14 @@
     "souav": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜AV资源"
-    }, 
+    },
     "lsbzy": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "name": 老色逼资源"
+      "name": "老色逼资源"
+    },
+    "cpzy": {
+      "api": "https://www.cpzy.tv/api.php/provide/vod",
+      "name": "超碰资源"
     }
   }
 }
